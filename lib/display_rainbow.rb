@@ -1,1 +1,1 @@
-display_rainbow(['red','ornage','yellow','green', 'blue','indigo', 'violet'])
+display_rainbow(['red','orange','yellow','green', 'blue','indigo', 'violet'])
